@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ali-sultani-pfur/ali-sultani-pfur.github.io.git
+	branch = main
